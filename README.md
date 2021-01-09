@@ -1,2 +1,2 @@
-# 11th-place-solution-to-Zindi-Africa-Women-in-Data-Science-Competition
+# 10th-place-solution-to-Zindi-Africa-Women-in-Data-Science-Competition
 To build a predictive model that accurately estimates the % of households per ward that are female-headed and living below a particular income threshold by using data points that can be collected through other means without an intensive household survey like the census. This solution can potentially reduce the cost and improve the accuracy of monitoring key population indicators such as female household headship and income level in between census years.
